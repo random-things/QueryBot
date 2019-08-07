@@ -1,0 +1,11 @@
+Form1 = 21, 14, 624, 504, Z, 88, 88, 1236, 686, C
+clsIRC = 110, 110, 1258, 708, 
+clsIRCBuffer = 0, 0, 0, 0, C
+Utilities = 44, 44, 1192, 642, 
+clsIRCPacketAnalyzer = 132, 132, 1280, 730, 
+clsQA = 154, 154, 1302, 752, 
+clsLastSeen = 198, 198, 1346, 796, 
+modLastSeenFunctions = 66, 66, 1214, 664, 
+clsLastSeenData = 176, 176, 1324, 774, 
+clsAliasData = 0, 0, 0, 0, C
+clsAliases = 0, 0, 0, 0, C
